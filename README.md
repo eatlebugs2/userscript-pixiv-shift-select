@@ -1,6 +1,6 @@
 ## userscript-pixiv-shift-select
 Userscript for shift-key multiselection in Pixiv's bookmarks page. Useful for mass deleting/privating/tagging multiple bookmarks.
-
+![demonstration](demonstration2.gif)
 > [!WARNING]
 ># **This was written by AI and I'm an absolute beginner at coding, so use at your own risk.**
 
